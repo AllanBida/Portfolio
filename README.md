@@ -1,4 +1,4 @@
 # Portfolio
-telefone
+**telefone**
 desenvolvedor trainer
 email
